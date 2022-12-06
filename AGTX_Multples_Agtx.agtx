@@ -63,7 +63,7 @@
   </DebugVariables>
   <AutomationPassword>Me7Pvwz9F4RnxM4nPYRbRzRNlTFNPK35wlMk8fSEP7Q=</AutomationPassword>
   <DateCreation>2022-12-02T09:28:28.5802436-05:00</DateCreation>
-  <LastSave>2022-12-06T08:35:41.6650128-05:00</LastSave>
+  <LastSave>2022-12-06T09:47:55.4998335-05:00</LastSave>
   <LocalVersionControl>true</LocalVersionControl>
   <AgilityRunStartupLocation>
     <X>0</X>
@@ -124,7 +124,7 @@
   <IsDisabled>false</IsDisabled>
   <OutputGuids>7b124c5d-fe1b-4728-83bb-b61f0967733a</OutputGuids>
   <PlaybackWorkSequence>
-    <WorkSequenceId>b4597ca8-a884-4c2a-a4df-0e840f4f1221</WorkSequenceId>
+    <WorkSequenceId>80ec5878-c93b-4ac2-8c1e-780e307af364</WorkSequenceId>
     <ProcessSteps>
       <ProcessStep xsi:type="ProcessFormatDates">
         <BreakPointChek>true</BreakPointChek>
@@ -171,7 +171,7 @@
           <Left>617</Left>
           <Top>10.5</Top>
           <Width>130</Width>
-          <Height>91</Height>
+          <Height>90.666666666666671</Height>
           <ID>c5511446-b1ab-4715-bfac-85b3da89f104</ID>
           <zIndex>5</zIndex>
           <IsGroup>false</IsGroup>
@@ -183,7 +183,7 @@
   <IsDisabled>false</IsDisabled>
   <OutputGuids>16259408-d9a2-4b15-9d0e-ed4d91c3297c</OutputGuids>
   <PlaybackWorkSequence>
-    <WorkSequenceId>aa380839-1fb8-4a81-9693-a38d526b5ea9</WorkSequenceId>
+    <WorkSequenceId>e8066bac-e143-43e9-895c-385a32e24c6a</WorkSequenceId>
     <ProcessSteps>
       <ProcessStep xsi:type="ProcessMessageBox">
         <BreakPointChek>true</BreakPointChek>
