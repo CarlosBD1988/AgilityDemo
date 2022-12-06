@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AgilityEnvelope SchemaVersion="0.2" RunVersion="agilityplayer">
+  <AgilityProject LastSave="wvJSchdHRavrNHBKgNvYTg==">
+    <AgilityAuto SchemaVersion="0.2">
+      <ProjectProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectID>e82c072b-c6e3-4218-b24a-636bba5a14f3</ProjectID>
+  <AutomationVersion>1.0</AutomationVersion>
+  <Variables>
+    <TypeVar>Any</TypeVar>
+    <Name>bool</Name>
+    <Type>Any</Type>
+    <ReadOnly>false</ReadOnly>
+  </Variables>
+  <Variables>
+    <TypeVar>Any</TypeVar>
+    <Name>var</Name>
+    <Type>Any</Type>
+    <ReadOnly>false</ReadOnly>
+  </Variables>
+  <Variables>
+    <TypeVar>Any</TypeVar>
+    <Name>array</Name>
+    <Type>Any</Type>
+    <ReadOnly>false</ReadOnly>
+  </Variables>
+  <Variables>
+    <TypeVar>Any</TypeVar>
+    <Name>count</Name>
+    <Type>Any</Type>
+    <ReadOnly>false</ReadOnly>
+  </Variables>
+  <Variables>
+    <TypeVar>Any</TypeVar>
+    <Name>date</Name>
+    <Type>Any</Type>
+    <ReadOnly>false</ReadOnly>
+  </Variables>
+  <Variables>
+    <TypeVar>Any</TypeVar>
+    <Name>array2</Name>
+    <Type>Any</Type>
+    <ReadOnly>false</ReadOnly>
+  </Variables>
+  <Variables>
+    <TypeVar>Any</TypeVar>
+    <Name>date3</Name>
+    <Type>Any</Type>
+    <ReadOnly>false</ReadOnly>
+  </Variables>
+  <Variables>
+    <TypeVar>Any</TypeVar>
+    <Name>date2</Name>
+    <Type>Any</Type>
+    <ReadOnly>false</ReadOnly>
+  </Variables>
+  <DebugVariables>
+    <Name>date</Name>
+    <Value>6/12/2022 8:34:41 a. m.</Value>
+  </DebugVariables>
+  <DebugVariables>
+    <Name>date2</Name>
+    <Value>6/12/2022 8:34:41 a. m.</Value>
+  </DebugVariables>
+  <AutomationPassword>Me7Pvwz9F4RnxM4nPYRbRzRNlTFNPK35wlMk8fSEP7Q=</AutomationPassword>
+  <DateCreation>2022-12-02T09:28:28.5802436-05:00</DateCreation>
+  <LastSave>2022-12-06T08:35:41.6650128-05:00</LastSave>
+  <LocalVersionControl>true</LocalVersionControl>
+  <AgilityRunStartupLocation>
+    <X>0</X>
+    <Y>0</Y>
+  </AgilityRunStartupLocation>
+  <AgilityRunAlwaysOnTop>false</AgilityRunAlwaysOnTop>
+  <AgilityRunShowExecuteButton>false</AgilityRunShowExecuteButton>
+  <AgilityRunShowOpenButton>false</AgilityRunShowOpenButton>
+  <AgilityRunAutoExecute>true</AgilityRunAutoExecute>
+  <AgilityRunAutoClose>true</AgilityRunAutoClose>
+  <AgilityRunScreenRecorder>false</AgilityRunScreenRecorder>
+  <AgilityRunStopOnError>false</AgilityRunStopOnError>
+  <AgilityRunWindowWidth>500</AgilityRunWindowWidth>
+  <AgilityRunWindowHeight>600</AgilityRunWindowHeight>
+  <AgilityRunShowNodeStart>true</AgilityRunShowNodeStart>
+  <AgilityRunShowNodeAction>true</AgilityRunShowNodeAction>
+  <AgilityRunShowNodeUi>true</AgilityRunShowNodeUi>
+  <AgilityRunShowNodeDecision>true</AgilityRunShowNodeDecision>
+  <AgilityRunShowNodeSubStart>true</AgilityRunShowNodeSubStart>
+  <AgilityRunShowNodeSubProcess>true</AgilityRunShowNodeSubProcess>
+  <AgilityRunShowNodeTask>true</AgilityRunShowNodeTask>
+  <AgilityRunShowNodeWait>true</AgilityRunShowNodeWait>
+  <AgilityRunShowNodeParallel>true</AgilityRunShowNodeParallel>
+  <AgilityRunShowNodeEnd>true</AgilityRunShowNodeEnd>
+  <AgilityRunRealTime>false</AgilityRunRealTime>
+</ProjectProperties>
+      <DesignerItems>
+        <DesignerItem>
+          <Left>24</Left>
+          <Top>47</Top>
+          <Width>50</Width>
+          <Height>50</Height>
+          <ID>94d575de-76d9-47cf-935b-237ab08c2032</ID>
+          <zIndex>0</zIndex>
+          <IsGroup>false</IsGroup>
+          <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+          <ProcessNodeObject>
+            <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StartNode">
+  <InputGuid>1c4fe512-7191-4b5b-b939-8595fd67446d</InputGuid>
+  <IsDisabled>false</IsDisabled>
+  <OutputGuids>ff3687c9-6c07-4b2e-8552-3c0abfd37a0c</OutputGuids>
+</ProcessNode>
+          </ProcessNodeObject>
+        </DesignerItem>
+        <DesignerItem>
+          <Left>171</Left>
+          <Top>10.5</Top>
+          <Width>130</Width>
+          <Height>90.666666666666671</Height>
+          <ID>7f14625c-0a16-48f2-94df-4044816fb81e</ID>
+          <zIndex>1</zIndex>
+          <IsGroup>false</IsGroup>
+          <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+          <ProcessNodeObject>
+            <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
+  <InputGuid>58359bfc-1920-4e03-af04-85a2d8c4b484</InputGuid>
+  <NodeName>get current date</NodeName>
+  <IsDisabled>false</IsDisabled>
+  <OutputGuids>7b124c5d-fe1b-4728-83bb-b61f0967733a</OutputGuids>
+  <PlaybackWorkSequence>
+    <WorkSequenceId>b4597ca8-a884-4c2a-a4df-0e840f4f1221</WorkSequenceId>
+    <ProcessSteps>
+      <ProcessStep xsi:type="ProcessFormatDates">
+        <BreakPointChek>true</BreakPointChek>
+        <IsDisabled>false</IsDisabled>
+        <IsValid>true</IsValid>
+        <ProcessStepId>ebcafad3-436d-4c3b-8331-a68401aacddd</ProcessStepId>
+        <DateFormat>{EMPTY}</DateFormat>
+        <Date>Now</Date>
+      </ProcessStep>
+    </ProcessSteps>
+    <UiSteps />
+  </PlaybackWorkSequence>
+</ProcessNode>
+          </ProcessNodeObject>
+          <AliasList>
+            <Alias>
+              <ProcessStepId>ebcafad3-436d-4c3b-8331-a68401aacddd</ProcessStepId>
+              <PropertyName>Result</PropertyName>
+              <AliasName>date</AliasName>
+            </Alias>
+          </AliasList>
+        </DesignerItem>
+        <DesignerItem>
+          <Left>387</Left>
+          <Top>10.5</Top>
+          <Width>130</Width>
+          <Height>90.666666666666671</Height>
+          <ID>8412c376-8025-4e45-9dbb-2b88a4fbe64a</ID>
+          <zIndex>3</zIndex>
+          <IsGroup>false</IsGroup>
+          <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+          <ProcessNodeObject>
+            <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskNode">
+  <InputGuid>9bcd7e74-5ba2-4e49-8d5f-232b31210781</InputGuid>
+  <NodeName>Sumar 10 dias a al fecha actual</NodeName>
+  <IsDisabled>false</IsDisabled>
+  <OutputGuids>90b69d3d-38da-45a1-993b-ee844af656e1</OutputGuids>
+  <Dispatcher />
+  <TaskXml>AGTX_Multples_Agtx_2</TaskXml>
+</ProcessNode>
+          </ProcessNodeObject>
+        </DesignerItem>
+        <DesignerItem>
+          <Left>617</Left>
+          <Top>10.5</Top>
+          <Width>130</Width>
+          <Height>91</Height>
+          <ID>c5511446-b1ab-4715-bfac-85b3da89f104</ID>
+          <zIndex>5</zIndex>
+          <IsGroup>false</IsGroup>
+          <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+          <ProcessNodeObject>
+            <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ActionNode">
+  <InputGuid>6406d410-4022-4a06-9f1a-5d75493864bc</InputGuid>
+  <NodeName>show date</NodeName>
+  <IsDisabled>false</IsDisabled>
+  <OutputGuids>16259408-d9a2-4b15-9d0e-ed4d91c3297c</OutputGuids>
+  <PlaybackWorkSequence>
+    <WorkSequenceId>aa380839-1fb8-4a81-9693-a38d526b5ea9</WorkSequenceId>
+    <ProcessSteps>
+      <ProcessStep xsi:type="ProcessMessageBox">
+        <BreakPointChek>true</BreakPointChek>
+        <IsDisabled>false</IsDisabled>
+        <IsValid>true</IsValid>
+        <ProcessStepId>e7cf27c0-68f3-4c21-a5d1-b079da18c812</ProcessStepId>
+        <Result>false</Result>
+        <Title>Fecha + 10 dias</Title>
+        <Body>$date + 10 dias igual a  $date2</Body>
+        <Button>OK</Button>
+        <Icon>None</Icon>
+      </ProcessStep>
+    </ProcessSteps>
+    <UiSteps />
+  </PlaybackWorkSequence>
+</ProcessNode>
+          </ProcessNodeObject>
+          <AliasList />
+        </DesignerItem>
+        <DesignerItem>
+          <Left>817</Left>
+          <Top>10</Top>
+          <Width>50</Width>
+          <Height>50</Height>
+          <ID>aba5907f-03fa-41ac-8b5c-7d25ed102218</ID>
+          <zIndex>7</zIndex>
+          <IsGroup>false</IsGroup>
+          <ParentID>00000000-0000-0000-0000-000000000000</ParentID>
+          <ProcessNodeObject>
+            <ProcessNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TerminateNode">
+  <InputGuid>3663a1dd-efec-4b04-a83f-0b28e96763b7</InputGuid>
+  <IsDisabled>false</IsDisabled>
+</ProcessNode>
+          </ProcessNodeObject>
+        </DesignerItem>
+      </DesignerItems>
+      <Connections>
+        <Connection>
+          <SourceConnectorName>Right</SourceConnectorName>
+          <SinkConnectorName>Left</SinkConnectorName>
+          <SourceArrowSymbol>None</SourceArrowSymbol>
+          <SinkArrowSymbol>Arrow</SinkArrowSymbol>
+          <zIndex>2</zIndex>
+          <guidSource>ff3687c9-6c07-4b2e-8552-3c0abfd37a0c</guidSource>
+          <guidSink>58359bfc-1920-4e03-af04-85a2d8c4b484</guidSink>
+        </Connection>
+        <Connection>
+          <SourceConnectorName>Right</SourceConnectorName>
+          <SinkConnectorName>Left</SinkConnectorName>
+          <SourceArrowSymbol>None</SourceArrowSymbol>
+          <SinkArrowSymbol>Arrow</SinkArrowSymbol>
+          <zIndex>4</zIndex>
+          <guidSource>7b124c5d-fe1b-4728-83bb-b61f0967733a</guidSource>
+          <guidSink>9bcd7e74-5ba2-4e49-8d5f-232b31210781</guidSink>
+        </Connection>
+        <Connection>
+          <SourceConnectorName>Right</SourceConnectorName>
+          <SinkConnectorName>Left</SinkConnectorName>
+          <SourceArrowSymbol>None</SourceArrowSymbol>
+          <SinkArrowSymbol>Arrow</SinkArrowSymbol>
+          <zIndex>6</zIndex>
+          <guidSource>90b69d3d-38da-45a1-993b-ee844af656e1</guidSource>
+          <guidSink>6406d410-4022-4a06-9f1a-5d75493864bc</guidSink>
+        </Connection>
+        <Connection>
+          <SourceConnectorName>Right</SourceConnectorName>
+          <SinkConnectorName>Left</SinkConnectorName>
+          <SourceArrowSymbol>None</SourceArrowSymbol>
+          <SinkArrowSymbol>Arrow</SinkArrowSymbol>
+          <zIndex>8</zIndex>
+          <guidSource>16259408-d9a2-4b15-9d0e-ed4d91c3297c</guidSource>
+          <guidSink>3663a1dd-efec-4b04-a83f-0b28e96763b7</guidSink>
+        </Connection>
+      </Connections>
+    </AgilityAuto>
+  </AgilityProject>
+</AgilityEnvelope>
